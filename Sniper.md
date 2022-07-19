@@ -1,0 +1,74 @@
+- **Marksman:** single target physical damage, prioritizes ranged units
+	- Archetto
+		- Landon Tactics(Talent 1) restores 1 SP per 2.5 seconds to ally snipers with Offensive Recovery
+		- Thundering Arrows(Skill 3) increases range and attack. Additionally, this skill allows her to hit multiple times per attack and target multiple enemies.
+	- Ash
+		- Assault Tactics(Skill 2) stuns enemies and inflicts heavy physical damage on them while they are stunned, it is worth noting that using other operators to stun the enemy is also a good way to extend her heavy damage duration. 
+		- Remember to reset the skill when you have the chance.
+	- Exusiai
+		- Angel's Blessing(Talent 2) attack and max health buff that is given to Exusiai and a random ally on Exusiai's deployment
+		- Overloading Mode(Skill 3) increases attack and attack speed. Additionally, Exusiai hits multiple times per attack .
+	- April #TODO
+	- Blue Poison
+		- Blue Poison has a DoT effect on her attacks which does arts damage
+		- Twinshot - Auto (Skill 1) is useful for sustained damage, especially to air units. 
+		- Venom Spray(Skill 2) is used for doing burst damage to a couple targets simultaneously 
+	- Greythroat #TODO
+	- Kroos The Keen Glint #TODO
+	- Platinum #TODO
+	- Jessica
+		- Cover Smoke(Skill 2) grants Jessica increased attack along with physical and arts evasion
+	- May
+		- Binding Shock(Skill 2) decreases attack speed and increases attack. May has guarantee d slow on every attack during the skill duration with a 30% chance to stun. 
+	- Meteor #TODO
+	- Vermeil #TODO
+	- Adnachiel
+		- Shortcoming Breakthrough(Talent 1) makes him attack ranged units first
+	- Kroos
+		- Targetting - Primary(Talent 1) gives her a 20% chance to do more damage
+		- Double Tap - Auto(Skill 1) gives her impressive sustain damage for a 3 star
+	- Ranger
+		- Anti-Air Master(Talent 1) increases his attack by 50% on aerial units
+	- 'Justice Knight'
+		- 'Justice Knight' is a robot which allows him to ignore deployment limit and has a long redeployment time. 
+		- 'Justice Knight' reduces the taunt level of ranged units in range, all aerial units give fragile
+- **Artilleryman:** deals physical aoe damage
+	- Fiametta #TODO
+	- W
+		- Ambush(Talent 1) decreases her taunt level and increases her physical and arts dodge by 60%
+		- Jack in the Box(Skill 2) is a high uptime auto deployed stun grenade that has no target limit. This ability is extremely useful for sustained waveclearing and stun stalls. 
+		- D12(Skill 3) is amazing at killing massive groups of enemies. It will chose the tankiest enemies to stick bombs on and explode them after 3 seconds or when the enemy the bomb is on dies. These bombs all have no target limit which allows this skill to wipe out large waves of enemies
+	- Meteorite #TODO
+	- Sesa #TODO
+	- Shirayuki #TODO
+	- Catapult
+		- Does alright AoE Physical Damage for a 3 Star 
+- **Spreadshooter:** attacks all enemies in range, attacks increases to enemies in the row directly in front of this unit
+	- Ch'en The Holungday
+		- Holiday Storm(Skill 3) is insanely high physical damage, a debuff and a slow at the same time
+	- Aosta #TODO
+	- Executor #TODO
+	- Pinecone #TODO
+- **Heavyshooter:** high damage close range 
+	- Schwarz
+		- Armor Penetration Arrow(Talent 1) gives Schwarz a chance to reduce the defense of a target for five seconds
+		- Final Tactics(Skill 3) changes range to a straight line. decreases attack speed, increases attack and guarentees a defense debuff toward any attacked enemies
+	- Provence
+		- Slaughter Sense(Skill 2) increases her attack drastically, however she only attacks enemies below 80% HP
+	- Aciddrop #TODO
+- **Deadeye:** prioritizes lowest defense enemies in attack range
+	- Fartooth #TODO
+	- Adreana #TODO
+	- Firewatch #TODO
+	- Ambriel #TODO
+- **Besieger:** Targets highest weight enemy
+	- Rosa
+		- Bone Piercer(Talent 1) ignores 60% Defense to enemies with a weight value of above 3
+		- Avalanche Breaker(Skill 2) roots multiple enemies and damages them every second
+	- Erato #TODO
+	- Toddifons #TODO
+- **Flinger:** attacks deals physical splash damage twice to ground units
+	- Rosmontis
+		- Rosmontis is best used for maps with a great concentration of enemies, her waveclear is incredible
+		- 'As You Wish' (Skill 3) drops two blocks down that can block up to three enemies, then she will attack two blocked enemies at a time, however her attacks have infinite area of effect, which causes her to do insanely high damage to a bunch of enemies in the general area as long as one of those enemies are being blocked
+	- Greyy The Lightbearer #TODO

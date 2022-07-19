@@ -1,0 +1,56 @@
+- **Protector:** blocks 3
+	- Hoshiguma
+		- Tactical Armor(Talent 1) gives 25% Physical and Arts dodge
+		- Saw of Strength(Skill 3) increases defense and attack, all enemies in the tile in front of Hoshiguma take damage which is helpful if you want your defender to also do reasonable damage. 
+	- Nian 
+		- Mountainous Armor(Talent 1) increases max health for ally defenders
+		- Iron Guard(Skill 3) increases attack while giving nearby allies a buff in defense and block count and status resistance. This skill is good for stalling. 
+	- Bison #TODO
+		- Entrenchment(Skill 2) increases his taunt level. This helps when your ranged operators are getting attacked.
+	- Blitz #TODO
+	- Croissant #TODO
+	- Heavyrain#TODO
+	- Liskarm
+		- Tactical Defense(Talent 1) when attecked, recovers SP for self and a random ally in the adjacent 4 tiles. This talent makes her excellent in conjunction with many operators with really high charges. 
+		- Charging Defense(Skill 1) blocks next attack and increases defense, ability is a defensive charge.  
+	- Bubble #TODO
+	- Cuora
+		- Shell-Shaped Defense(Skill 2) makes Cuora stop attacking enemies, increase block count, increase defense and heal slowly. This skill is a new player staple for stalling. 
+	- Matterhorn #TODO
+	- Beagle
+		- She has good defense stats for a 3 star
+	- Cardigan
+		- Regeneration Alpha(Skill 1) gives her a quick self heal on demand
+	- Noir Corne
+		- Improved Armor(Talent 1) increases his Max Health and Defense by 12%
+- **Guardian:** skills heal friendly units 
+	- Blemishine #TODO
+	- Saria
+		- First Aid(Skill 1) allows for healing of those in the 8 squares around her when they are below half HP. Good for keeping units alive
+		- Medicine Dispensing(Skill 2) gives her a bigger range of heal in exchange for longer intervals and a weaker heal overall
+		- Calcification(Skill 3) is a massive aoe heal toward allies and resistence debuff toward enemies
+	- Hung #TODO
+	- Nearl #TODO
+	- Gummy #TODO
+	- Spot
+		- Smoke Installation(Talent 1) gives healed allies a physical dodge for 3 seconds
+		- Secondary Healing Mode(Skill 1) causes Spot to stop attacking however heal his allies for more
+- **Arts Protector:** skills do arts damage
+	- Asbestos #TODO
+	- Czerny #TODO
+	- Shalem #TODO
+	- Dur-nar #TODO
+- **Juggernaut:** cannot be healed by allies
+	- Mudrock
+		- Mudrock is a juggernaut which means she cannot be healed by guardians or any medics
+		- Mudrock can heal through regeneration and her passive shield taking damage
+		- Ward of the Fertile Soil(Talent 1) gives her a shield every 9 seconds that can completely negate one instance of damage and regenerate her health by 20%
+		- Crag Splitter(Skill 2) is great for sustained damage along with extra healing for Mudrock, it is worth noting that this ability charges through Mudrock getting hit
+		- Bloodline of the Descrated Earth(Skill 3) can be activated for a slow while mudrock turns invincible but stops blocking all enemies. After a short moment, Mudrock stuns all ground enemies for 5 seconds while attacking all blocked enemies with increased damage and attack speed. This skill is used to build up her shields and can be used to dps, stall or tank. 
+	- Vulcan #TODO
+- **Duelist:** can only gain DP when blocking
+	- Eunectes #TODO
+	- Aurora #TODO
+- **Fortress:** has a long range splash attack
+	- Horn #TODO
+	- Ashlock #TODO

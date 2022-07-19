@@ -1,0 +1,44 @@
+- **Decel Binder:** Attacks deal arts damage and slows
+	- Angelina
+		- Angelina's Passive buffs all allies attack speed and heals all allies when her skills are not active
+		- Secret Staff: Particle Mode(Skill 2) has a good uptime and causes Angelina to attack very fast, slowing the enemies
+		- Secret Staff: Anti-Gravity Mode(Skill 3) has worse uptime than Skill 2, however has a larger attack range and also reduces the weight of enemies which makes them easier to push and pull
+	- Suzuran
+		- Foxfire Haze(Skill 3) causes Suzuran to stop attacking and slow all enemies in a large area while increasing the damage they take. Additionally, all allies in this are are healed. 
+	- Glaucus #TODO
+	- Istina #TODO 
+	- Earthsprit #TODO
+	- Podenco #TODO
+	- Orchid
+		- Swift Strike Alpha(Skill 1) increases damage but more importantly attack speed, which helps her slow more
+		- Useful for burst arts(at a 3 star level)
+- **Summoner:** attacks deals arts damage and can use summons in battle that cost deployment units
+	- Ling
+		- Replaces entire squads on her own
+		- She is the center of the show so you most likely won't be using any other operators when you use her
+		- To Remain Oneself(Skill 3) allows her to fuse her summons as a passive. On active, her summons do increased damage, defense, and emits a damage aura
+	- Magallan #TODO
+	- Mayer #TODO
+	- Scene #TODO
+	- Deepcolor #TODO
+- **Hexer:** attacks deal arts damage, can slow and debuff
+	- Gnosis
+		- Hypothermia(Skill 3) is used to increase the damage that enemies take while also freezing them. This is used as a sidegrade to Suzuran, who has more uptime but longer charge time.
+	- Pramanix
+		- Weakening(Talent 1) amplifies any damage that enemies below 40% health in Paramanix's range take
+		- Natural Deterrent(Skill 2) decreases the defense and resistance of all enemies in range, combos well with high damage burst aoe skills such as Eyjafyalla's Volcano and Silverash's Truesilver Slash 
+	- Shamare #TODO
+- **Bard:** does not attack but continously heals allies in range
+	- Skadi The Corrupting Heart
+		- Wish of Burial Beyond the Light(Skill 2) is the general use ability for Skalter as it replaces the need for a healer in a large area along with buffing allies. 
+		- The Tide Surges, The Tide Recedes(Skill 3) is also very important as it does a high amount of true damage at the cost of Skalter's Health, make sure to heal her when using Skill 3 unless you are fine with her dying. 
+		- Her seaborn extends her range of her abilities which is beneficial for both abilities.
+	- Heidi #TODO
+	- Sora #TODO
+- **Abjurer:** when skill is active, attacks heal allies
+	- Nine-Colored Deer #TODO
+	- Quercus #TODO
+	- Tsukinogi #TODO
+- **Artificer:** blocks two and can use support devices
+	- Windflit #TODO
+	- Roberta #TODO

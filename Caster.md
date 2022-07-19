@@ -1,0 +1,91 @@
+- **Core Caster:** Single target arts damage
+	- Ceobe
+		- Whittling(Talent 1) does more damage to enemies with more defense
+		- Lone Journey(Talent 2) does more damage and has more attack speed when no allies are in the adjacent 4 tiles
+		- "Very Hot Blade"(Skill 2) increases attack speed drasically and prioritizes enemies with high defense. This ability is extremely useful in taking down enemies with high defense. 
+	- Eyjafyalla
+		- **PRIORITY UNIT**
+		- Ignition(Skill 2) is an auto skill that has very high uptime and decent area of effect. This ability is great for general use and consistent AoE Arts damage. 
+		- Volcano(Skill 3) is a manual skill that hits multiple enemies around Eyjafyalla with highly damaging fireballs. This ability is generally used for clearing a massive wave of enemies or boss killing. 
+	- Absinthe
+		- Terminating Blast(Skill 2) hits four times per attack with good damage however does not target enemies below half health. This skill is very situational so generally this unit is not great.
+	- Amiya
+			- Emotional Absorption(Talent 1) gives Amiya SP for attacking and killing enemies
+			- Tactical Chanting: Type Gamma(Skill 1) is just an attack speed increase, however this is her best skill for Elite 1
+			- Mental Burst(Skill 2) hits multiple times to each to random enemies in range, she will be stunned after the skill ends. This is her best skill when Elite 2 without a need for true damage. 
+			- Chimaera(Skill 3) increases Amiya's attack and health while swapping her damage to true damage. Amiya will be forcefully retreated after this skill ends. This skill is very useful for bosses with shield phases or bosses with very high defense and resistance.
+	- Nightmare
+		- Dual Personality(Talent 1) gives Nightmare physical and arts evasion with skill 1 and attack with skill 2
+		- Soul Absorption(Skill 1) heals allies in range based on damage Nightmare dealt to enemies
+		- Nightmare Shadow(Skill 2) slows up to 5 targets in range and does damage to them based on how far they travel. The damage is basically irrelevant in most cases, the slow matters more. 
+	- Tomimi
+		- Wilderness Magic(Talent 1) changes Tomimi's attacks to be melee but increases her attack by 100%
+		- Gavial Protection Plan(Skill 2) has a chance to stun the target. Tomimi is more of a meme character than a staple in most stages.
+	- Haze
+		- Black Mist(Talent 1) reduces resistence of enemies attacked by Haze
+		- Crimson Eyes(Skill 2) increases attack and attack speed but reduces health. This ability is decent however the loss in health can be very dangerous.
+	- Steward
+		- Armor Break(Talent 1) causes Steward to target the enemy with the highest defense first 
+		- Power Strike Alpha(Skill 1) gives him very good sustained damage
+	- Durin
+		- Luck Lass(Talent 1) gives her 50% Arts Dodge. This is decent for cheesing certain targetting mechanics from bosses. 
+- **Spash Caster:** AoE arts damage, attacks slower but can hit unlimited enemies
+	- Dusk
+		- Finishing Touch(Talent 2) causes Dusk's first attack after deployment to summon a 'Freeling'
+		- Transcendental Strike(Skill 1) increases the AoE of Dusk's attacks. This skill has very good uptime and is an automatic skill.
+		- Flowing Ink(Skill 2) increases the attack range, attack speed, attack damage.
+		- Image Over Form(Skill 3) decreases attack speed, increases range, increases AoE, and increases attack damage. Additionally, every attack can summon a 'Freeling'. This ability is very good for stalling stages. 
+	- Mostima 
+		- Skill Aura - Casters(Talent 1) gives all Caster allies +0.4 SP per second
+		- Subjective Time Dilation(Talent 2) slows all enemies in attack range
+		- Lock of Desolate Time(Skill 2) stuns all enemies in attack range and does decent damage to them. The stun is the important part of this skill.
+		- Key of Ordered TIme(Skill 3) increases attack range and attack while increasing her passive slow. Additionally this skill pushes enemies away, which makes this skill amazing for stalling. 
+	- Lava The Puratory 
+		- Ring of Hellfire(Skill 2) creates a ring of fire around her and the highest health ally in range, doing decent damage to all enemies in the rings. 
+	- Leonhardt 
+		- Deconstruction & Demolition(Skill 2) reduces resistence of enemies hit for 6 second. The skill is a manual trigger with a low SP charge, which makes it very tedious to use and generally not worth it. 
+	- Skyfire
+		- Flame of Heaven(Skill 2) decreases her attack speed drastically, however the meteor she hits the enemies with do heavy arts damage which makes this a good skill when the enemies are being blocked. 
+	- Gitano
+		- Fate(Skill 1) increases attack and attack range. Gitano is stunned after the skill ends.
+	- Greyy 
+		- Static Field(Talent 1) inflicts slow on enemies Greyy hits
+		- Static Release(Skill 2) increases the duration of passive slow while increasing attack speed
+	- Lava
+		- Quick Skill Usage(Talent 1) gives her the nearly useless niche of a helidrop AoE Caster
+	- 12F
+		- Dodge Rate Up(Talent 1) gives him 50% Physical Dodge
+- **Chain Caster:** Attacks deal arts damage and slows enemies, chains up to 4 targets
+	- Passenger 
+		- Glorious Shards(Skill 3) drops a lightning storm on the highest health target near Passenger, dealing additional damage to a random enemy inside the storm. This skill has decently high burst as you can store 2 charges. 
+	- Astgenne #TODO
+	- Leizi
+		- Lightning Omen(Skill 2) increases attack and removes the reduced damage on bounce. The AoE on this skill is pretty good for wave clearing.
+	- Pudding #TODO
+- **Phalanx Caster:** does not attack without skill, has very high defense and resistance without skill
+	- Carnelian
+		- Carnelian is a Charged character, which means that her SP can be charged up to double the required SP for casting. When you reach the SP limit for charged, there will be an additional effect along with a red icon above the operator's head.
+		- Meal of Life(Talent 1) heals after using a skill
+		- Sand Fetters(Skill 2) increases attack speed and slows all enemies hit. When Charged, the enemies are rooted instead of slowed. 
+		- Mark of Gluttony(Skill 3) increases attack range and ramps up her attack. When Charged, every attack increases the damage that the enemy takes from Carnelian by 20%(Stacks 5 times)
+	- Beeswax 
+		- Guardian Obelisk(Skill 2) summons an 3 block deployable that stuns on deployment
+	- Mint 
+		- Geologist(Talent 1) buffs defense on allies in 4 adjacent tiles, when skill activates she decreases self taunt level
+		- Swirling Vortex(Skill 2) pulls enemies toward her, dealing arts damage every second with a large arts explosion at the end
+- **Mystic Caster:** can store attack energy when enemies are not in range, burst of arts damage on release
+	- Ebenholz #TODO
+	- Iris #TODO
+	- Indigo #TODO
+- **Blast Caster:** Super Long Range Area Caster
+	- Ifrit
+		- Pyroclasm(Skill 2) is an automatic skill that shreds enemy defense and has high uptime. The damage is also extremely good and causes a residual DoT afterward
+		- Scorched Earth(Skill 3) is a manual skill with decent uptime that shreds enemy resistance, however this skill does not hit air units
+	- Corroserum #TODO
+- **Mech-Accord Caster:** Controls a drone that deals arts damage, when a drone damage increases on same target
+	- Goldenglow #TODO
+	- Kjera
+		- Deference(Talent 2) When there are 2 or more ground tiles in her attack range, she gains more attack
+		- Unrestrained Heart(Skill 2) releases her drones to lock on to enemies. When Kjera or a drone attacks an enemy, they have a chance to get chilled. If a chilled enemy is chilled again, they freeze. 
+	- Rockrock #TODO
+	- Click #TODO

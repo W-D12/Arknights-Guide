@@ -1,0 +1,72 @@
+- **Pioneer:** blocks two ground unit
+	- Flametail
+		- Vanguard Swordsmanship(Talent 1) makes her next attack hit twice and attacks enemies equal to block count after evading
+		- Pinus Sylvestris Leader(Talent 2) gives all Kazimeriz Operators physical evasion
+		- "Pinus Sylvestris" (Skill 2) gives DP and stuns up to 6 enemies while giving allies physical evasion. This skill is great for early game stalling and animation cancelling enemies. 
+		- Flameheart(Skill 3) gives DP while increasing attack speed, block count and attack. Additionally she gains physical and arts evasion. This ability makes her a great lane holder as she becomes an incredible dodge tank. 
+	- Saga 
+		- Preaching(Talent 1) leaves enemies at 1 health and slows them, they will die shortly after however they cannot be blocked. This is used to combo with chargers or Siege, however this can also screw you over as they can still walk into the protection objective(blue box).
+		- Clear Mind(Talent 2) when HP falls below 40% for the first time, gains 70% physical evasion and heals 5% max hp per second for 15 seconds. This is useful for tanking burst damage early on. 
+		- Cleansing Evil(Skill 2) grants DP and deals damage to up to 6 enemies. This skill is a manual trigger with very low SP cost, so it is a spam ability for killing off trash mobs.
+		- Fierce GLare(Skill 3) grants DP, decreases attack speed but increases attack range and attack. Additionally, she will hit two enemies at a time, dealing extra damage if the target is below 50% HP. 
+	- Siege
+		- Aerial Hammer(Skill 2) is used very often for AFK strategies as it does very good damage, has very good uptime and also regenerates DP while being automatic
+	- Chiave
+		- Flame Stripping(Skill 2) decreases resistence for a short period of time. This is a decent debuff. 
+	- Texas
+		- Sword Rain(Skill 2) has one of the fastest initial casts for vanguards in all of Arknights. Additionally, it causes a 3 second stun in a large area which is very useful for the beginning of missions or in Contingency Contract
+	- Zima
+		- Assault Leader(Talent 1) decreases deployment cost of vanguards by 1
+		- Roar of Ursus(Skill 2) gains DP and increases all ally vanguards attack and defense. Additionally, all vanguards will obtain 1 additional DP on kill. She is best used with vanguard centric teams with Flametail, Saga and/or Bagpipe. 
+	- Courier 
+		- Snow Patroller(Talent 1) when blocking two enemies, defense up
+		- Assault Order Defend(Skill 2) gains DP and increases defense. He is a defensive style vanguard.
+	- Scavenger
+		- Lone Wolf(Talent 1) increases attack and defense when there are no allies in adjacent 4 tiles
+		- Assault Order Attack(Skill 2) gains DP and increases attack. She is an offensive focused Pioneer. 
+	- Fang
+		- She is cheap and can give you DP
+	- Vanilla
+		- Command - Reinforcement(Skill 1) and ATK Up(Talent 1) both buff her attack, which gives her the niche of a Pioneer with an attack focused skillset
+	- Yato
+		- Fast Redeployment(Talent 1) decreases her redeployment time, which lets her be a quick temperary 2 block
+- **Charger:** blocks one, gives dp on kill
+	- Bagpipe
+		- Bagpipe is very cheap in DP for her power
+		- High-Impact Assault(Skill 2) is used for those who dont wanna press buttons, and is a good skill in its own right
+		- Locked Breech Burst(Skill 3) gives her one additionally block and makes her hit really hard
+	- Grani 
+		- Mounted Police(Talent 1) gives all ally vanguards physical evasion on deployment
+		- Never Back Down!(Skill 2) reduces attack range, increases attack, defense and block count. Atacks will hit multiple enemies equal to block count. This makes her a defensive charger as her attack is already lower than most chargers which is a weird niche that most likely won't ever see use. 
+	- Reed 
+		- Spiritual Spark(Skill 2) increases attack and adds additional arts damage to her attacks. She also gains 1 more DP when killing enemies. She is decent arts damage early on if you dont have any other way of getting it. 
+	- Wild Mane 
+		- Forward March(Talent 1) all undeployed operators cost one less DP on Wild Mane's deployment(Stacks 5 times). This passive will most likely only be stacked once if even. 
+		- Stabbing Lance(Skill 1) gives her an attack speed bonus on deployment. This skill is useful for assassinations. 
+			- Lance Charge(Skill 2) increases attack range and attack. Additionally, attacks will push enemies away with medium force. This is an decent skill for early game stalling. 
+	- Vigna
+		- Hammer-On(Skill 2) increases her attack greatly but slightly reduces attack speed, which is very useful for early on in the stage
+	- Plume
+		- Swift Strike Alpha(Skill 1) allows her to attack faster. She also has a notably high attack for a 3 star unit.
+- **Standard Bearer:** regenerates considerable DP on skill, blocks 1 usually but when using skill blocks 0
+	- Saileach 
+		- Unwavering Banner(Talent 1) When deployed she gains an Ensign which gives all operators gain attack speed and all enemies lose attack speed in 8 surrounding tiles
+		- Spiritual Exchange(Talent 2) reduces DP of next operator 
+		- Glorious Banner(Skill 3) gains a small amount of DP and throws the ensign at the location of a ground enemy(or on top of herself when no enemies are in range) dealing physical damage. Additionally, all enemies hit will be stunned, slowed and weakened. Retrieves Ensign after skill ends. This skill is a very powerful stall and debuff for any stage of the game, it is very powerful with most hypercarry operators. 
+	- Elysium 
+		- Sniper Support(Talent 1) decreases DP cost of all snipers and increases sniper attack speed when he activates his skill. This makes him a great support for the likes of Ash and Exusiai. 
+		- Support Order Type Gamma(Skill 1) stops attacking and generate considerable amounts of DP. This skill is slower than Myrtle's but generates more DP.
+		- Focused Listening(Skill 2) stops attacking and generates considerable amounts of DP. 3-4 nearby enemies(3 below Skill 7, 4 when Skill 7 and above) will gain a movement debuff, defense debuff and stealth removal. This skill is great for physical hypercarries(especially snipers due to his passive), and makes him a great combo starter. 
+	- Myrtle 
+		- Glistening Light(Talent 1) gives all vanguards regeneration. This skill is great for budget healing on Integrated Strategies. 
+		- Support Order Type Beta(Skill 1) stops attacking enemies and generates a massive amount of DP. This is her general use skill and is used very often in every stage. 
+		- Wings of Recovery(Skill 2) stocks attacking and generates DP while healing a nearby ally. This skill is very niche and does not see too much play. 
+- **Tactician:** has summons, high ground unit
+	- Blacknight
+		- Nightwalker(Talent 1) gives her reviving hypnos
+		- Drowsiness(Skill 1) causes all her hypnos to fall asleep and start healing, when the hypnos get attacked, they will wake up with increased attack and attack speed
+		- Peaceful Slumber(Skill 2) causes all ground enemies near the tactical point to fall asleep. The Hypno's attacks change to splash arts. 
+	- Beanstalk
+		- Professional Breeder(Talent 1) gives her a reviving Metal Crab
+		- Pinpoint Command(Skill 1) gives DP and heals the Metal Crab
+		- "Everyone Together!"(Skill 2) summons temperary crabs next to the main crab while giving DP
