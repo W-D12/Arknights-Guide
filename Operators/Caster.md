@@ -10,10 +10,10 @@
 	- Absinthe
 		- Terminating Blast(Skill 2) hits four times per attack with good damage however does not target enemies below half health. This skill is very situational so generally this unit is not great.
 	- Amiya
-			- Emotional Absorption(Talent 1) gives Amiya SP for attacking and killing enemies
-			- Tactical Chanting: Type Gamma(Skill 1) is just an attack speed increase, however this is her best skill for Elite 1
-			- Mental Burst(Skill 2) hits multiple times to each to random enemies in range, she will be stunned after the skill ends. This is her best skill when Elite 2 without a need for true damage. 
-			- Chimaera(Skill 3) increases Amiya's attack and health while swapping her damage to true damage. Amiya will be forcefully retreated after this skill ends. This skill is very useful for bosses with shield phases or bosses with very high defense and resistance.
+		- Emotional Absorption(Talent 1) gives Amiya SP for attacking and killing enemies
+		- Tactical Chanting: Type Gamma(Skill 1) is just an attack speed increase, however this is her best skill for Elite 1
+		- Mental Burst(Skill 2) hits multiple times to each to random enemies in range, she will be stunned after the skill ends. This is her best skill when Elite 2 without a need for true damage. 
+		- Chimaera(Skill 3) increases Amiya's attack and health while swapping her damage to true damage. Amiya will be forcefully retreated after this skill ends. This skill is very useful for bosses with shield phases or bosses with very high defense and resistance.
 	- Nightmare
 		- Dual Personality(Talent 1) gives Nightmare physical and arts evasion with skill 1 and attack with skill 2
 		- Soul Absorption(Skill 1) heals allies in range based on damage Nightmare dealt to enemies
