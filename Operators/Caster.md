@@ -47,7 +47,7 @@
 	- Skyfire
 		- Flame of Heaven(Skill 2) decreases her attack speed drastically, however the meteor she hits the enemies with do heavy arts damage which makes this a good skill when the enemies are being blocked. 
 	- Gitano
-		- Fate(Skill 1) increases attack and attack range. Gitano is stunned after the skill ends.
+		- Fate(Skill 2) increases attack and attack range. Gitano is stunned after the skill ends.
 	- Greyy 
 		- Static Field(Talent 1) inflicts slow on enemies Greyy hits
 		- Static Release(Skill 2) increases the duration of passive slow while increasing attack speed
