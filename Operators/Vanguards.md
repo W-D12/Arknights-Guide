@@ -3,12 +3,12 @@
 		- Vanguard Swordsmanship(Talent 1) makes her next attack hit twice and attacks enemies equal to block count after evading
 		- Pinus Sylvestris Leader(Talent 2) gives all Kazimeriz Operators physical evasion
 		- "Pinus Sylvestris" (Skill 2) gives DP and stuns up to 6 enemies while giving allies physical evasion. This skill is great for early game stalling and animation cancelling enemies. 
-		- Flameheart(Skill 3) gives DP while increasing attack speed, block count and attack. Additionally she gains physical and arts evasion. This ability makes her a great lane holder as she becomes an incredible dodge tank. 
+		- Flameheart(Skill 3) gives DP while decreasing attack interval, block count and attack. Additionally she gains physical and arts evasion. This ability makes her a great lane holder as she becomes an incredible dodge tank. 
 	- Saga 
 		- Preaching(Talent 1) leaves enemies at 1 health and slows them, they will die shortly after however they cannot be blocked. This is used to combo with chargers or Siege, however this can also screw you over as they can still walk into the protection objective(blue box).
 		- Clear Mind(Talent 2) when HP falls below 40% for the first time, gains 70% physical evasion and heals 5% max hp per second for 15 seconds. This is useful for tanking burst damage early on. 
 		- Cleansing Evil(Skill 2) grants DP and deals damage to up to 6 enemies. This skill is a manual trigger with very low SP cost, so it is a spam ability for killing off trash mobs.
-		- Fierce GLare(Skill 3) grants DP, decreases attack speed but increases attack range and attack. Additionally, she will hit two enemies at a time, dealing extra damage if the target is below 50% HP. 
+		- Fierce Glare(Skill 3) grants DP, increases attack interval but increases attack range and attack. Additionally, she will hit two enemies at a time, dealing extra damage if the target is below 50% HP. 
 	- Siege
 		- Aerial Hammer(Skill 2) is used very often for AFK strategies as it does very good damage, has very good uptime and also regenerates DP while being automatic
 	- Chiave
@@ -45,7 +45,7 @@
 		- Stabbing Lance(Skill 1) gives her an attack speed bonus on deployment. This skill is useful for assassinations. 
 			- Lance Charge(Skill 2) increases attack range and attack. Additionally, attacks will push enemies away with medium force. This is an decent skill for early game stalling. 
 	- Vigna
-		- Hammer-On(Skill 2) increases her attack greatly but slightly reduces attack speed, which is very useful for early on in the stage
+		- Hammer-On(Skill 2) increases her attack greatly but increases attack interval, which is very useful for early on in the stage
 	- Plume
 		- Swift Strike Alpha(Skill 1) allows her to attack faster. She also has a notably high attack for a 3 star unit.
 - **Standard Bearer:** regenerates considerable DP on skill, blocks 1 usually but when using skill blocks 0

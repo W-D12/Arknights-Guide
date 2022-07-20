@@ -7,7 +7,9 @@
 		- Foxfire Haze(Skill 3) causes Suzuran to stop attacking and slow all enemies in a large area while increasing the damage they take. Additionally, all allies in this are are healed. 
 	- Glaucus #TODO
 	- Istina #TODO 
-	- Earthsprit #TODO
+	- Earthspirit
+			- Geological Exploration(Talent 1) increases the duration of slow marginally. This is generally too small of a change to matter, so dont bother. 
+			- Quicksand(Skill 2) causes Earthspirit to stop attacking enemies and slow all enemies in range every once in a while. This skill is turbo garbage, just use a different Decel Binder please. 
 	- Podenco #TODO
 	- Orchid
 		- Swift Strike Alpha(Skill 1) increases damage but more importantly attack speed, which helps her slow more

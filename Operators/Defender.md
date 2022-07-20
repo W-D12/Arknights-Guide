@@ -46,7 +46,7 @@
 		- Mudrock can heal through regeneration and her passive shield taking damage
 		- Ward of the Fertile Soil(Talent 1) gives her a shield every 9 seconds that can completely negate one instance of damage and regenerate her health by 20%
 		- Crag Splitter(Skill 2) is great for sustained damage along with extra healing for Mudrock, it is worth noting that this ability charges through Mudrock getting hit
-		- Bloodline of the Descrated Earth(Skill 3) can be activated for a slow while mudrock turns invincible but stops blocking all enemies. After a short moment, Mudrock stuns all ground enemies for 5 seconds while attacking all blocked enemies with increased damage and attack speed. This skill is used to build up her shields and can be used to dps, stall or tank. 
+		- Bloodline of the Descrated Earth(Skill 3) can be activated for a slow while mudrock turns invincible but stops blocking all enemies. After a short moment, Mudrock stuns all ground enemies for 5 seconds while attacking all blocked enemies with increased damage and reduced attack interval. This skill is used to build up her shields and can be used to dps, stall or tank. 
 	- Vulcan #TODO
 - **Duelist:** can only gain DP when blocking
 	- Eunectes #TODO

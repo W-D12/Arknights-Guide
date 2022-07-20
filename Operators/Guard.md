@@ -73,7 +73,7 @@
 	- Mountain
 		- Forceful Fist(Talent 1) provides a 20% chance for increased damage and defense debuff toward the target 
 		- Sweeping Stance(Skill 2) increases health regeneration drastically, increases one block and increases attack, good for holding down lanes
-		- Earth-Shattering Smash(Skill 3) pushes up to 3 surrounding enemies away every strike, attack speed decrease, attack up, and increases activation rate of Forceful FIst
+		- Earth-Shattering Smash(Skill 3) pushes up to 3 surrounding enemies away every strike, increases attack interval, attack up, and increases activation rate of Forceful FIst
 	- Flint #TODO
 	- Indra #TODO
 	- Beehunter #TODO

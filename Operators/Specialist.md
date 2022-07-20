@@ -19,7 +19,7 @@
 	- Gladiia
 		- Waves of AEgir(Talent 1) gives Abyssal Hunters health regeneration
 		- Waterless Parting of the Great Ocean(Skill 1) is an automatic skill that causes the next attack to pull targets closer. Good for stall strategies.
-		- Watterless Grasp of the Raging Sea(Skill 2) increases attack range and decreases attack speed. She can pull two units closer to her at a time.
+		- Watterless Grasp of the Raging Sea(Skill 2) increases attack range and increases attack interval. She can pull two units closer to her at a time.
 		- Waterless Dance of the Shattered Maelstrom(Skill 3) creates a tornado that roots a single unit, then pulls other units toward the rooted enemy. This ability is great for when there are a lot of enemies. 
 	- Cliffheart #TODO
 	- Snowsant #TODO
@@ -34,7 +34,7 @@
 		- Industrial Water Cannon(Talent 1) gives Weedy a Water Cannon that can push targets away slightly one at a time
 		- Upgraded Water Cannon(Talent 2) buffs the Water Cannon and increases Weedy's SP generation if placed within a 4 tile radius
 		- Barrel Burst(Skill 1) is an automatic skill that causes the next attack to push targets away and stun them, generally for stall strategies against light enemies
-		- Hydraulics Mode(Skill 2) is an unlimited duration ability that decreases attack speed but increases range and attack, good for sustained lane holding
+		- Hydraulics Mode(Skill 2) is an unlimited duration ability that increases attack interval but increases range and attack, good for sustained lane holding
 		- Liquid Nitrogen Cannon(Skill 3) immediately shoots out a high damaging blast to all enemies in Weedy's range, causing them to take True Damage over time for 8 seconds while pushing them really far away. Additionally, if Reserve Water Cannon(Deployable Talent 1) is in a 4 tile radius of Weedy, it will also uses this ability. This ability is extremely good for stalling heavy enemies. 
 	- Enforcer #TODO
 	- FEater #TODO

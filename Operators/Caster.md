@@ -2,7 +2,7 @@
 	- Ceobe
 		- Whittling(Talent 1) does more damage to enemies with more defense
 		- Lone Journey(Talent 2) does more damage and has more attack speed when no allies are in the adjacent 4 tiles
-		- "Very Hot Blade"(Skill 2) increases attack speed drasically and prioritizes enemies with high defense. This ability is extremely useful in taking down enemies with high defense. 
+		- "Very Hot Blade"(Skill 2) reduces attack interval drasically and prioritizes enemies with high defense. This ability is extremely useful in taking down enemies with high defense. 
 	- Eyjafyalla
 		- **PRIORITY UNIT**
 		- Ignition(Skill 2) is an auto skill that has very high uptime and decent area of effect. This ability is great for general use and consistent AoE Arts damage. 
@@ -34,7 +34,7 @@
 		- Finishing Touch(Talent 2) causes Dusk's first attack after deployment to summon a 'Freeling'
 		- Transcendental Strike(Skill 1) increases the AoE of Dusk's attacks. This skill has very good uptime and is an automatic skill.
 		- Flowing Ink(Skill 2) increases the attack range, attack speed, attack damage.
-		- Image Over Form(Skill 3) decreases attack speed, increases range, increases AoE, and increases attack damage. Additionally, every attack can summon a 'Freeling'. This ability is very good for stalling stages. 
+		- Image Over Form(Skill 3) increases attack interval, increases range, increases AoE, and increases attack damage. Additionally, every attack can summon a 'Freeling'. This ability is very good for stalling stages. 
 	- Mostima 
 		- Skill Aura - Casters(Talent 1) gives all Caster allies +0.4 SP per second
 		- Subjective Time Dilation(Talent 2) slows all enemies in attack range
@@ -45,7 +45,7 @@
 	- Leonhardt 
 		- Deconstruction & Demolition(Skill 2) reduces resistence of enemies hit for 6 second. The skill is a manual trigger with a low SP charge, which makes it very tedious to use and generally not worth it. 
 	- Skyfire
-		- Flame of Heaven(Skill 2) decreases her attack speed drastically, however the meteor she hits the enemies with do heavy arts damage which makes this a good skill when the enemies are being blocked. 
+		- Flame of Heaven(Skill 2) increases attack interval drastically, however the meteor she hits the enemies with do heavy arts damage which makes this a good skill when the enemies are being blocked. 
 	- Gitano
 		- Fate(Skill 2) increases attack and attack range. Gitano is stunned after the skill ends.
 	- Greyy 
@@ -58,7 +58,9 @@
 - **Chain Caster:** Attacks deal arts damage and slows enemies, chains up to 4 targets
 	- Passenger 
 		- Glorious Shards(Skill 3) drops a lightning storm on the highest health target near Passenger, dealing additional damage to a random enemy inside the storm. This skill has decently high burst as you can store 2 charges. 
-	- Astgenne #TODO
+	- Astgenne 
+		- Double Diversion(Skill 1) is an automatic skill that increases damage and can hit two targets at the same time, then bouncing up to 4 more times
+			- Starlight Intersection(Skill 2) expands attack range and increases attack. Astegenne will hit two targets at the same time. 
 	- Leizi
 		- Lightning Omen(Skill 2) increases attack and removes the reduced damage on bounce. The AoE on this skill is pretty good for wave clearing.
 	- Pudding #TODO
@@ -66,7 +68,7 @@
 	- Carnelian
 		- Carnelian is a Charged character, which means that her SP can be charged up to double the required SP for casting. When you reach the SP limit for charged, there will be an additional effect along with a red icon above the operator's head.
 		- Meal of Life(Talent 1) heals after using a skill
-		- Sand Fetters(Skill 2) increases attack speed and slows all enemies hit. When Charged, the enemies are rooted instead of slowed. 
+		- Sand Fetters(Skill 2) reduces attack interval and slows all enemies hit. When Charged, the enemies are rooted instead of slowed. 
 		- Mark of Gluttony(Skill 3) increases attack range and ramps up her attack. When Charged, every attack increases the damage that the enemy takes from Carnelian by 20%(Stacks 5 times)
 	- Beeswax 
 		- Guardian Obelisk(Skill 2) summons an 3 block deployable that stuns on deployment

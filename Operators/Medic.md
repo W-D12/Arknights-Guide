@@ -6,15 +6,29 @@
 		- Black Fiend's Protection(Talent 1) increases the defense of all allies in range
 		- Auto Protect(Skill 2) is an automatic ability that gives a small defense buff along with a small shield to all allies that got healed
 		- Creed Field(Skill 3)  increases the defense of all allies in range
-	- Folinic #TODO 
-	- Silence #TODO
-	- Tuye #TODO
+	- Folinic 
+		- Medicinal Blocking Technique(Talent 1) increases resist and reduces damage taken from environment
+		- Composite Medicinal Shells(Skill 2) changes to fire shells that heals nearby allies and deals arts damage to enemies. Generally this is unnessesary but you can still use her. 
+	- Silence 
+		- Injection Enhancement(Talent 1) increases ally medic attack speed on deployment
+		- Healing Drone(Skill 2) gives a healing drone that can be deployed and heals extremely fast and will most likely full heal your allies. This makes Silence one of the best five star medics in the game and is still very good for flexibility. 
+	- Tuye
+		- Water Storage(Talent 1) after not healing for 4 seconds, next heal will be more powerful
+		- Aqua Loop(Skill 1) manual trigger that heals a target and gives a shield
+		- Cardiac Stimulant(Skill 2) increases attack and only heals allies below half health. When an ally in range falls below 20%, she will give them a massive heal. The skill ends when she gives three massive heals, otherwise the skill has an infinite duration. 
 	- Warfarin
 		- Blood Sample Recycle(Talent 1) restores skill points to Warfarin and a random ally in range whenever an enemy in range dies. While this ability is good in most cases, it can mess up Exusiai Overloading Mode timings.
 		- Unstable Plasma(Skill 2) causes both Warfarin and a random ally in range to lose 3% Max Health per second while increasing both of their attack drastically
-	- Gavial #TODO
-	- Myrrh #TODO
-	- Sussurro #TODO
+	- Gavial
+		- Revitalization(Skill 1) is an auto skill that gives the next target healed a regeneration effect
+		- Revitalization Area(Skill 2) gives regeneration to all allies in range
+	- Myrrh
+		- First Aid Kit(Talent 1) heals all allies immediately on Myyrh's deployment
+		- Healing Field(Skill 2) increases attack and heals one extra target
+	- Sussurro
+		- Minimally Invasive Healing(Talent 1) increases healing for operators with 10 or less DP cost
+		- Deep Healing(Skill 2) increases attack and attack speed drastically, however only can be used twice.
+		- Important to mention that she is the best low rarity medic in the game
 	- Ansel
 		- Additional Healing(Talent 1) gives him a chance to heal a second ally
 		- Healing Range Up(Skill 1) increases his range
@@ -37,14 +51,30 @@
 			- Incense(Talent 1) heals all allies for small percentage of Perfumer's Attack every second. This skill is very good for passive regeneration on allies who cant be healed by conventional means. 
 		- Fine-tuning(Skill 2) decreases attack speed but increases attack drastically
 - **Therapist:** larger healing range but has lower attack at further ranges
-	- Lumen #TODO
-	- Ceylon #TODO
-	- Whisperain #TODO
-	- Purestream #TODO
+	- Lumen 
+		- Commoner's Wish(Talent 1) grants resist to allies after he heals them
+		- Emergency Treatment(Talent 2) Lumen immediately heals an ally with a status condition. Cooldown 12 seconds as it is an animation cancel.
+		- Downpour(Skill 2) is a charged skill immediately heals up to 2 allies in range. Charged effect removes all status from targets.
+		- Inextinguishable Light(Skill 3) is an ammo skill increases attack and attack speed. Ammo is only consumed when healing a target with a status, status will be removed on heal and target will be healed for more health. This makes him crucial for status heavy maps, and he is a free operator. 
+	- Ceylon 
+		- Water Spirit's Protection(Skill 2) increases attack. She can heal an additional target and gives resist to all allies in duration of her skill. 
+		- Ceylon is pretty bad even for a free character due to her low numbers. 
+	- Whisperain 
+		- Tower of Life(Talent 1) gives regeneration to allies with Status Resist
+		- Pain Suppression(Skill 2) is an infinite duration skill that reduces attack interval, increases regeneration from Tower of Life, and grants Status Resist to allies healed
+	- Purestream
+		- Rapid Recovery(Talent 1) after healing a target, grants Status Resist for 4 seconds
+		- Gushing Springs(Skill 2)  reduces attack interval, every heal will heal an additional ally in range for a small percentage of Purestream's attack
 - **Wandering Medic:** heals friendly units and recovers elemental damage
-	- Honeyberry #TODO
-	- Mulberry #TODO
-	- Chestnut #TODO
+	- Honeyberry 
+		- Spiritual Care(Skill 1) causes the next heal to target two operators with highest elemental damage taken. Also removes some elemental damage. 
+			- Rouse(Skill 2) increases attack and causes every heal to target two operators with highest elemental damage taken.
+	- Mulberry 
+		- Helper(Talent 1) if there is one other medic deployed, all medics gain attack
+		- Healing Mist(Skill 1) causes next heal to heal more and restore elemental damage. This is great for fighting sustained elemental damage. 
+		- Safe Zone(Skill 2) reduces attack interval and prioritizes target with highest elemental damage taken. All allies in range take less elemental damage. This is great for a fighting a burst of elemental damage. 
+	- Chestnut 
+		- Earthen Surge(Skill 2) reduces attack range but increases attack speed. When healing the same target consecutively, heal amount and elmental damage healing increases. 
 - **Incantation Medic:** heals 50% of damage they do
 	- Hibiscus The Purifier
 		- Dusk and Dawn(Talent 1) gives arts fragility on attack
